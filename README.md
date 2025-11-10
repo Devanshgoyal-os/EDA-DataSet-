@@ -1,5 +1,4 @@
-# Create a README.md text file content
-readme_content = """# 📊 Zomato Dataset Analysis
+"""# 📊 Zomato Dataset Analysis
 
 ## 🔍 Overview
 This project explores and analyzes the **Zomato restaurant dataset** using Python. The analysis focuses on understanding restaurant trends, customer ratings, pricing patterns, and location-based insights using powerful data visualization techniques.
